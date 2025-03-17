@@ -1,0 +1,28 @@
+General Styles
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #1f1c2c, #928dab);
+    color: white;
+    text-align: center;
+    transition: 0.3s;
+}
+ 
+
+.typing-text {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #ff9800;
+} 
+
+ footer {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    text-align: center;
+}
+
+
+body.dark-mode {
+    background: linear-gradient(to right, #111, #222);
+} 
